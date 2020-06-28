@@ -1,0 +1,78 @@
+.header-table{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 2%;
+    /* padding-bottom: 2%; */
+    /* margin-top: 8%; */
+    /* margin-bottom: 10px; */
+    /* font-family: 'Karla',sans-serif; */
+    
+    background-color: snow;
+    /* height: 90%; */
+    /* border: red solid 2px; */
+    border-radius: 15px;
+    color: #fff;
+    /* z-index: 100; */
+    box-shadow: 0 0 0 0 rgba(0,0,0,.12), 0 4px 4px 0 rgba(0,0,0,.24);
+    /* font-weight: bold; */
+}
+
+.manageadmin-container{
+    /* background-color: slateblue; */
+    /* height: 120%; */
+    padding-top: 3%;
+    padding-bottom: 12%;
+    background: #281e5a;
+    
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+}
+
+.form-control {
+    /* font-size: 2rem; */
+    /* padding: 25px 15px; */
+    /* margin-right: 50px; */
+    /* margin-left: 30px; */
+    /* padding-right: 30px; */
+  }
+
+thead tr th{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Vesper Libre',serif;
+    /* text-align: center; */
+}
+
+th{
+    /* line-height: 35px; */
+}
+
+.modal-label{
+    font-weight:bold;
+    margin-top:5px;
+    margin-bottom:2px;
+    margin-left:2px
+}
+
+/* .App {
+    display: flex;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .day {
+    background-color: aliceblue;
+    align-items: center;
+    cursor: default;
+    display: flex;
+    font-size: 24px;
+    height: 50px;
+    justify-content: center;
+    width: 50px;
+  }
+  
+  .active {
+    background-color: teal;
+    color: white;
+  } */
+  
